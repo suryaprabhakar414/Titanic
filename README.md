@@ -27,15 +27,25 @@ This link to the dataset:- https://www.kaggle.com/c/titanic/data
 There are three basic steps which one must follow while solving a machine learning problem:- 
 
 1) Data Analysis
+
     -> Analysis of the features.
+    
     -> Finding any relations or trends considering multiple features.
+    
 2) Data Cleansing / Feature Engineering / Data preparation
+
     -> Removing redundant features.
+    
     -> Adding any few features.
+    
     -> Converting features into suitable form for modelling.
+    
 3) Predictive Modelling
+
     -> Running Machine Learning Algorithms
+    
     -> Importing Feature Extraction
+
     -> Cross Validation
 
 
