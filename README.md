@@ -7,7 +7,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this project, we need to complete the analysis of what sorts of people were likely to survive. We need to use various machine learning tools to predict which passengers survived the tragedy.
 
-#Dataset
+# Dataset
 
 The data has been split into two groups:
   •	training set (train.csv)
